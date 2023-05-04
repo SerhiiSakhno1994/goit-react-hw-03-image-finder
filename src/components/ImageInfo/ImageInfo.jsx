@@ -13,7 +13,7 @@ import Modal from 'components/Modal/Modal';
 export default class ImageInfo extends Component {
   state = {
     hits: [],
-    picturesName: '',
+    picturesName: 'React',
     page: 1,
     total: 0,
     largeImageURL: '',
